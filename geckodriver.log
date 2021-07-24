@@ -1,0 +1,31 @@
+1627168844035	geckodriver	INFO	Listening on 127.0.0.1:57503
+1627168847081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\harsh\\AppData\\Local\\Temp\\rust_mozprofileXQVTfJ"
+1627168847832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harsh\\AppData\\Local\\Temp\\rust_mozprofileXQVTfJ\\search.json.mozlz4", (void 0)))
+1627168851908	Marionette	INFO	Listening on port 57511
+1627168852054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627168854145	Marionette	INFO	Stopped listening on port 57511627168855148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\harsh\\AppData\\Local\\Temp\\rust_mozprofileKMfbZB"
+1627168855842	Marionette	INFO	Marionette enabled
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627168885249	geckodriver	INFO	Listening on 127.0.0.1:57566
+1627168888295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\harsh\\AppData\\Local\\Temp\\rust_mozprofileKsNDIe"
+1627168888955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harsh\\AppData\\Local\\Temp\\rust_mozprofileKsNDIe\\search.json.mozlz4", (void 0)))
+1627168892829	Marionette	INFO	Listening on port 57574
+1627168893185	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages wiconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harsh\\AppData\\Local\\Temp\\rust_mozprofilehG4HVz\\search.json.mozlz4", (void 0)))
+1627168907836	Marionette	INFO	Listening on port 57678
+1627168908103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://wcdn.ril.com/cdn/menuconfig.js, line 1: SyntaxError: unexpected token: identifier
+JavaScript error: https://wcdn.ril.com/cdn/toolbarbrands.js, line 1: SyntaxError: unexpected token: identifier
+1627168917275	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1627168918190	Marionette	INFO	Stopped listening on port 57678
