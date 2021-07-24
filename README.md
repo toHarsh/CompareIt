@@ -11,6 +11,7 @@ Created using Selenium and Beautiful soup
 Use ComapreIt in your local system
 ```bash
   git clone https://github.com/toHarsh/CompareIt.git
+  cd CompareIt
   pip install -r requirements.txt
 ```
 Open the cloned folder in Jupyter Notebook(preferred) and hover over to CompareIt.ipynb
